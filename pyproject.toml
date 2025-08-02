@@ -1,0 +1,12 @@
+[project]
+name = "prototype"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-generativeai>=0.8.5",
+    "opencv-python>=4.12.0.88",
+    "pillow>=11.3.0",
+    "streamlit>=1.47.1",
+]
